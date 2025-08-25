@@ -31,5 +31,3 @@ Durante a construção deste projeto, foi possível:
 * Entender a importância de separar bem estrutura, estilo e lógica
 
 ---
-
-Quer que eu também prepare badges (linguagens usadas, status de deploy no Pages, etc.) para deixar o README ainda mais profissional?
