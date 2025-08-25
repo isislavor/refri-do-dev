@@ -20,7 +20,7 @@ No projeto foram aplicados conceitos fundamentais de **HTML, CSS e JavaScript**,
 ## 🔗 Demonstração
 
 O projeto está publicado no **GitHub Pages** e pode ser acessado através do link:
-👉 [Acesse aqui](https://SEU_USUARIO.github.io/refri-do-dev)
+👉 [Acesse aqui](https://isislavor.github.io/refri-do-dev/)
 
 ## 📚 Aprendizados
 
