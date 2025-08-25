@@ -21,6 +21,7 @@ No projeto foram aplicados conceitos fundamentais de **HTML, CSS e JavaScript**,
 
 O projeto está publicado no **GitHub Pages** e pode ser acessado através do link:
 👉 [Acesse aqui](https://isislavor.github.io/refri-do-dev/)
+<img width="1360" height="693" alt="image" src="https://github.com/user-attachments/assets/cfc99b07-860d-4025-8cc4-b5c372843e2b" />
 
 ## 📚 Aprendizados
 
